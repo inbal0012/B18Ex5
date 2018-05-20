@@ -1,0 +1,13 @@
+C:\Users\Inbal\Downloads\תכנות מונחה עצמים בסביבת דוט - נט ושפת C#\דוגמאות קוד\11_FirstWinApp1\11_FirstWinApp\FirstWinApp\bin\Debug\FirstWinApp.exe.config
+C:\Users\Inbal\Downloads\תכנות מונחה עצמים בסביבת דוט - נט ושפת C#\דוגמאות קוד\11_FirstWinApp1\11_FirstWinApp\FirstWinApp\bin\Debug\FirstWinApp.exe
+C:\Users\Inbal\Downloads\תכנות מונחה עצמים בסביבת דוט - נט ושפת C#\דוגמאות קוד\11_FirstWinApp1\11_FirstWinApp\FirstWinApp\bin\Debug\FirstWinApp.pdb
+C:\Users\Inbal\Downloads\תכנות מונחה עצמים בסביבת דוט - נט ושפת C#\דוגמאות קוד\11_FirstWinApp1\11_FirstWinApp\FirstWinApp\obj\Debug\FirstWinApp.2010.csprojResolveAssemblyReference.cache
+C:\Users\Inbal\Downloads\תכנות מונחה עצמים בסביבת דוט - נט ושפת C#\דוגמאות קוד\11_FirstWinApp1\11_FirstWinApp\FirstWinApp\obj\Debug\FirstWinApp.2010.csproj.CoreCompileInputs.cache
+C:\Users\Inbal\Downloads\תכנות מונחה עצמים בסביבת דוט - נט ושפת C#\דוגמאות קוד\11_FirstWinApp1\11_FirstWinApp\FirstWinApp\obj\Debug\FirstWinApp.exe
+C:\Users\Inbal\Downloads\תכנות מונחה עצמים בסביבת דוט - נט ושפת C#\דוגמאות קוד\11_FirstWinApp1\11_FirstWinApp\FirstWinApp\obj\Debug\FirstWinApp.pdb
+C:\Users\Inbal\Downloads\תכנות מונחה עצמים בסביבת דוט - נט ושפת C#\דוגמאות קוד\11_FirstWinApp1\11_FirstWinApp\FirstWinApp\bin\Debug\MaterialSkin.dll
+C:\Users\Inbal\Downloads\תכנות מונחה עצמים בסביבת דוט - נט ושפת C#\דוגמאות קוד\11_FirstWinApp1\11_FirstWinApp\FirstWinApp\obj\Debug\FirstWinApp.2010.csproj.CopyComplete
+C:\Users\Inbal\Downloads\תכנות מונחה עצמים בסביבת דוט - נט ושפת C#\דוגמאות קוד\11_FirstWinApp1\11_FirstWinApp\FirstWinApp\obj\Debug\FirstWinApp.FormGameSetting.resources
+C:\Users\Inbal\Downloads\תכנות מונחה עצמים בסביבת דוט - נט ושפת C#\דוגמאות קוד\11_FirstWinApp1\11_FirstWinApp\FirstWinApp\obj\Debug\FirstWinApp.2010.csproj.GenerateResource.cache
+C:\Users\Inbal\Downloads\תכנות מונחה עצמים בסביבת דוט - נט ושפת C#\דוגמאות קוד\11_FirstWinApp1\11_FirstWinApp\FirstWinApp\obj\Debug\FirstWinApp.FormDanka.resources
+C:\Users\Inbal\Downloads\תכנות מונחה עצמים בסביבת דוט - נט ושפת C#\דוגמאות קוד\11_FirstWinApp1\11_FirstWinApp\FirstWinApp\obj\Debug\FirstWinApp.FormLogin.resources
