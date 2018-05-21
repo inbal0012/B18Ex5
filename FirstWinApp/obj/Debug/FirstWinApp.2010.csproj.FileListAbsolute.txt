@@ -11,3 +11,6 @@ C:\Users\Inbal\Downloads\תכנות מונחה עצמים בסביבת דוט - 
 C:\Users\Inbal\Downloads\תכנות מונחה עצמים בסביבת דוט - נט ושפת C#\דוגמאות קוד\11_FirstWinApp1\11_FirstWinApp\FirstWinApp\obj\Debug\FirstWinApp.2010.csproj.GenerateResource.cache
 C:\Users\Inbal\Downloads\תכנות מונחה עצמים בסביבת דוט - נט ושפת C#\דוגמאות קוד\11_FirstWinApp1\11_FirstWinApp\FirstWinApp\obj\Debug\FirstWinApp.FormDanka.resources
 C:\Users\Inbal\Downloads\תכנות מונחה עצמים בסביבת דוט - נט ושפת C#\דוגמאות קוד\11_FirstWinApp1\11_FirstWinApp\FirstWinApp\obj\Debug\FirstWinApp.FormLogin.resources
+C:\Users\Inbal\Downloads\תכנות מונחה עצמים בסביבת דוט - נט ושפת C#\דוגמאות קוד\11_FirstWinApp1\11_FirstWinApp\FirstWinApp\bin\Debug\CheckersLogic.dll
+C:\Users\Inbal\Downloads\תכנות מונחה עצמים בסביבת דוט - נט ושפת C#\דוגמאות קוד\11_FirstWinApp1\11_FirstWinApp\FirstWinApp\bin\Debug\CheckersLogic.pdb
+C:\Users\Inbal\Downloads\תכנות מונחה עצמים בסביבת דוט - נט ושפת C#\דוגמאות קוד\11_FirstWinApp1\11_FirstWinApp\FirstWinApp\obj\Debug\FirstWinApp.FormDamka.resources

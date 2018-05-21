@@ -8,6 +8,7 @@ namespace FirstWinApp
 {
     public class FormDanka : Form
     {
+
         private Label m_LabelPlayer1;
         private Label m_LabelPlayer1Score;
         private Label m_LabelPlayer2Score;
@@ -19,6 +20,7 @@ namespace FirstWinApp
         {
             m_GameSetting.ShowDialog();
             InitializeComponent();
+            
         }
 
         private void InitializeComponent()

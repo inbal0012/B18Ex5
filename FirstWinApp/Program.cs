@@ -10,7 +10,7 @@ namespace FirstWinApp
     {
         public static void Main()
         {
-            FormDanka form = new FormDanka();
+            FormDamka form = new FormDamka();
 
             form.ShowDialog();
         }

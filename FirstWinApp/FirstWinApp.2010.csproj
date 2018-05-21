@@ -49,6 +49,12 @@
   </Target>
   -->
   <ItemGroup>
+    <Compile Include="FormDamka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDamka.Designer.cs">
+      <DependentUpon>FormDamka.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormDanka.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -61,10 +67,16 @@
     <Compile Include="FormLogin.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Matrix.cs">
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="Program.cs">
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Reference Include="CheckersLogic">
+      <HintPath>..\..\..\..\DN_HIT_2018B_Ex02\Checkers-master (1)\B18 Ex02 Inbal 205786148 Zvi 203121967\CheckersLogic\bin\Debug\CheckersLogic.dll</HintPath>
+    </Reference>
     <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
     </Reference>
@@ -79,6 +91,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="FormDamka.resx">
+      <DependentUpon>FormDamka.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormDanka.resx">
       <DependentUpon>FormDanka.cs</DependentUpon>
     </EmbeddedResource>
