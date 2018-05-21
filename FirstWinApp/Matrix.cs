@@ -17,7 +17,7 @@ namespace FirstWinApp
             get { return m_Size; }
         }
 
-        public Matrix(int i_Size)
+        public Matrix(int i_Size = 1)
         {
             m_Size = i_Size;
             InitializeComponent();

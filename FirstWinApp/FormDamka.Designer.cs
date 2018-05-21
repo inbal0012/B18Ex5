@@ -59,7 +59,7 @@
             this.labelPlayer2Score.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.labelPlayer2Score.AutoSize = true;
             this.labelPlayer2Score.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelPlayer2Score.Location = new System.Drawing.Point(453, 37);
+            this.labelPlayer2Score.Location = new System.Drawing.Point(405, 37);
             this.labelPlayer2Score.Name = "labelPlayer2Score";
             this.labelPlayer2Score.Size = new System.Drawing.Size(56, 20);
             this.labelPlayer2Score.TabIndex = 4;
@@ -70,7 +70,7 @@
             this.labelPlayer2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.labelPlayer2.AutoSize = true;
             this.labelPlayer2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelPlayer2.Location = new System.Drawing.Point(369, 37);
+            this.labelPlayer2.Location = new System.Drawing.Point(321, 37);
             this.labelPlayer2.Name = "labelPlayer2";
             this.labelPlayer2.Size = new System.Drawing.Size(78, 20);
             this.labelPlayer2.TabIndex = 3;
@@ -80,7 +80,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(564, 190);
+            this.ClientSize = new System.Drawing.Size(564, 356);
             this.Controls.Add(this.labelPlayer2Score);
             this.Controls.Add(this.labelPlayer2);
             this.Controls.Add(this.labelPlayer1Score);
